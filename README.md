@@ -5,7 +5,7 @@ Originally this project was done purely on python which i uploaded in Customer_I
 You can visit the project in the Colab Link given below.
 
 ## Colab Link: 
-<Link of colab>
+https://colab.research.google.com/drive/1ninwcDTfpLoRpxQNndKkr59zoJ3CPbPa?usp=sharing
 
 ## Dataset: 
 insurance_data.csv
